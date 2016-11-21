@@ -12,12 +12,12 @@ This plugin makes it very easy to use the fancy Google Tag Manager on your Wordp
 1. Go to `Settings` > `General` and fill in the ID from your Google Tag Manager. (eg. GTM-A1B2C3)
 
 ### FAQ ###
-= Can't find the output on my Website? =
+ Can't find the output on my Website?
 
 - first: do you set the GTM ID into your Settings Page ?
 - second: does your theme have the `<?php wp_footer(); ?>` call?
 - third: have you cleared your cache ?
 
 ### Changelog ###
-= 0.9 =
+ 0.9
 * Initial upload of the plugin - enjoy it and feeld free to contanct me
