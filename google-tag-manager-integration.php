@@ -3,7 +3,7 @@
 Plugin Name: Easy Google Tag Manager Integration
 Plugin URI: http://wordpress.org/extend/plugins/google-tag-manager-integration/
 Description: This plugin helps you to integrate the Google Tag Manger into your Wordpress Theme. Just install and activate the plugin and add your GTM ID once in the preferences.
-Version: 0.9
+Version: 1.0
 Author: Martin Quade 
 License: GPLv2 or later
 */
@@ -53,3 +53,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 }
 
 google_tag_manager_integration::go();
+
+/* **************************
+Thanks for using the plugin */
