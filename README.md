@@ -19,5 +19,8 @@ This plugin makes it very easy to use the fancy Google Tag Manager on your Wordp
 - third: have you cleared your cache ?
 
 ### Changelog ###
+ 1.0
+* another initial commit of the plugin
+
  0.9
 * Initial upload of the plugin - enjoy it and feeld free to contanct me
